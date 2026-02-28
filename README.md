@@ -2,9 +2,9 @@
 
 <br>
 <p align="center">
-  <img src="images/Poland - 2D elevation.jpg" width="700"><br>
+  <img src="images/Poland - elevation.png" width="700"><br>
   <em>Rysunek 1. Wizualizacja numerycznego modelu terenu (NMT) dla terytorium Polski</em><br>
-  <em>Plik rastrowy można pobrać <a href="rasters/Poland - 2D elevation.tif" download>stąd</a></em>
+  <em>Źródło danych: Copernicus Global DSM 90m</em>
 </p>
 
 <br>
